@@ -1,0 +1,20 @@
+"Date","Type","Transaction ID","Received Quantity","Received Currency","Received Currency Balance","Received Cost Basis (MXN)","Received Wallet","Received Address","Received Tag","Received Comment","Sent Quantity","Sent Currency","Sent Currency Balance","Sent Cost Basis (MXN)","Sent Wallet","Sent Address","Sent Tag","Sent Comment","Fee Amount","Fee Currency","Realized Return (MXN)","Disabled"
+06/14/2017 20:57:35,Buy,,0.49999000,BTC,...,...,Imported Wallet - Coinbase - BTC,,,,4005.80,USD,...,...,Imported Wallet - Coinbase - USD,,,,0.00001000,BTC,...,
+08/19/2017 10:05:15,Trade,,0.30000000,BTC,...,...,Imported Wallet - Coinbase - BTC,,,,3.00000000,ETH,...,...,Imported Wallet - Coinbase - ETH,,,,,,...,
+08/21/2017 12:00:00,Send,,,,...,...,,,,,3.00000000,ETH,...,...,Imported Wallet - Coinbase - ETH,,Gift,,0.00010000,ETH,...,
+08/30/2017 12:01:30,Receive,,3.00000000,ETH,...,...,Imported Wallet - Coinbase - ETH,,Mined,,,,...,...,,,,,,,...,
+10/27/2020 03:03:00,Receive,,0.29880352,BCH,...,...,Coinbase - BCH Wallet,,Mined,Received Bitcoin Cash From Bitcoin Cash address,,,...,...,,,,,,,...,
+10/27/2020 05:00:40,Send,,,,...,...,,,,,0.29665567,BCH,...,...,Coinbase - BCH Wallet,,,Sent Bitcoin Cash To raymundo.ramirez803@icloud.com,,,...,
+10/27/2020 05:17:36,Receive,,0.29665567,BCH,...,...,Coinbase - BCH Wallet,,Mined,Received Bitcoin Cash From New User,,,...,...,,,,,,,...,
+11/12/2020 03:05:25,Transfer,,0.29880352,BCH,...,...,Manual Transaction,,,,0.29880352,BCH,...,...,Coinbase - BCH Wallet,,Lost / Stolen,Sent Bitcoin Cash To ray.i.ramirez@icloud.com,,,...,
+04/25/2022 16:30:07,Receive,,2.89017341,GRT,...,...,Coinbase - GRT Wallet,,Payment,Received The Graph From Coinbase Earn,,,...,...,,,,,,,...,
+04/25/2022 16:32:22,Receive,,2.88766965,GRT,...,...,Coinbase - GRT Wallet,,Payment,Received The Graph From Coinbase Earn,,,...,...,,,,,,,...,
+04/25/2022 16:33:09,Receive,,2.88433804,GRT,...,...,Coinbase - GRT Wallet,,Payment,Received The Graph From Coinbase Earn,,,...,...,,,,,,,...,
+04/25/2022 16:34:01,Receive,,2.87935502,GRT,...,...,Coinbase - GRT Wallet,,Payment,Received The Graph From Coinbase Earn,,,...,...,,,,,,,...,
+04/29/2022 22:34:35,Receive,,49.81320049,AMP,...,...,Coinbase - AMP Wallet,,Payment,Received Amp From Coinbase Earn,,,...,...,,,,,,,...,
+04/29/2022 22:35:24,Receive,,49.80079681,AMP,...,...,Coinbase - AMP Wallet,,Payment,Received Amp From Coinbase Earn,,,...,...,,,,,,,...,
+04/29/2022 22:36:05,Receive,,49.78839930,AMP,...,...,Coinbase - AMP Wallet,,Payment,Received Amp From Coinbase Earn,,,...,...,,,,,,,...,
+05/04/2022 20:20:45,Trade,,0.00095566,ETH,...,...,Coinbase - ETH Wallet,,,Converted from Amp Using AMP Wallet,149.40239661,AMP,...,...,Coinbase - AMP Wallet,,,Converted from Amp Using AMP Wallet,,,...,
+05/04/2022 20:24:37,Trade,,0.01271527,BCH,...,...,Coinbase - BCH Wallet,,,Converted from The Graph Using GRT Wallet,11.54153612,GRT,...,...,Coinbase - GRT Wallet,,,Converted from The Graph Using GRT Wallet,,,...,
+
+..., Indicates that a tax plan needs to be purchased for the corresponding tax year
